@@ -24,4 +24,5 @@ Module 5 : Receipt and Summary report
 ![image](https://user-images.githubusercontent.com/66995676/206907266-ea8bc9d9-b24d-426c-bc68-60d926df8a6b.png)
 ![image](https://user-images.githubusercontent.com/66995676/206907279-df5a2895-e669-4763-9a85-c28a19f5ad00.png)![image](https://user-images.githubusercontent.com/66995676/206907290-d50f2bd7-d1eb-4c11-82c4-0c4b1af2c948.png)
 ![image](https://user-images.githubusercontent.com/66995676/206907314-8842fc6b-554e-49d6-ae7c-b03fdec99082.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/66995676/206907540-300f70c1-4822-401f-9e17-5b326a8ce5f0.png)
+
